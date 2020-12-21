@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabita Paradizzo MFusion</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_fab">Shopping Basket</string>
+    <string name="title_basket">Your order</string>
+</resources>

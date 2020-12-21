@@ -1,0 +1,17 @@
+<!--
+Tabita - 19951
+Marcelle - 19534
+-->
+
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid
+        android:color="@color/gray">
+    </solid>
+    <corners
+        android:topLeftRadius="5dip"
+        android:topRightRadius="5dip"
+        android:bottomLeftRadius="5dip"
+        android:bottomRightRadius="5dip">
+    </corners>
+</shape>
